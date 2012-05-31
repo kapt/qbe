@@ -6,3 +6,4 @@ include MANIFEST.in
 include README.rst
 recursive-include django_qbe/templates *
 recursive-include django_qbe/media *
+recursive-include django_qbe/static *
